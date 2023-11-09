@@ -3,9 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+<<<<<<< HEAD
 first_name: Alan Bednarski
 middle_name: 
 last_name: 
+=======
+first_name: Alan
+middle_name: 
+last_name: Bednarski
+>>>>>>> ca8a6a17 (Changed website)
 email: alanb2002@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website to showcase my work
