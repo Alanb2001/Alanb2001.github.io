@@ -20,6 +20,6 @@ I'm a programmer with an MComp in computer games programming from Teesside unive
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {<iframe width="560" height="315" src="https://www.youtube.com/embed/xd4KbF6xQXA?si=_Da0fXXxMLLeHKcJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xd4KbF6xQXA?si=_Da0fXXxMLLeHKcJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 </div>
