@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wave based first person game using Unreal enigne
-description: A group project based on cod zombies
+title: Wave based first person game
+description:
 img: assets/img/12.jpg
 importance: 2
 category: #work

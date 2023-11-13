@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Procedural cave generation in Unity game engine
-description: A cave generation system using Perlin noise
-img: assets/img/12.jpg
+title: Procedural cave generation
+description:
+img: assets/img/1P1.jpg
 importance: 1
 category: #work
 related_publications: #einstein1956investigations, einstein1950meaning
 ---
 
-This was made as a part of my final year project
+This was made as a part of my final year project, I used C# and the Unity game engine. The system uses Perlin noise to create the cave system.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
