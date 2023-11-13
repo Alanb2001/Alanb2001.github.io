@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Procedural cave generation
-description: Perlin noise
-img: assets/img/12.jpg
+description:
+img: assets/img/1P1.JPG
 importance: 1
 category: #work
 related_publications: #einstein1956investigations, einstein1950meaning
