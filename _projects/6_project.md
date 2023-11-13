@@ -7,6 +7,7 @@ importance: 6
 category:
 related_publications:
 ---
+This is an example post with videos. It supports local video files.
 
 A couple of weeks after graduating from university, I got to work at Psycho Hound/Roughneck Studios as a freelance junior game programmer. I worked with them for three months before leaving, and it taught me a lot about working in the industry and a lot about networking with Unreal Engine while making gamplay features.
 
