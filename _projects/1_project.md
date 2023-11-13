@@ -2,7 +2,7 @@
 layout: page
 title: Procedural cave generation
 description:
-img: assets/img/1P1.jpg
+img: assets/img/1P1.JPG
 importance: 1
 category: #work
 related_publications: #einstein1956investigations, einstein1950meaning
