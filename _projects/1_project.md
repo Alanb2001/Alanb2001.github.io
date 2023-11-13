@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Procedural cave generation
-description:
+description: Perlin noise
 img: assets/img/1P1.JPG
 importance: 1
 category: #work
