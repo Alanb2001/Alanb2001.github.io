@@ -4,29 +4,17 @@ title: Procedural cave generation
 description: Unity engine system
 img: assets/img/1P1.JPG
 importance: 1
-category: #work
-related_publications: #einstein1956investigations, einstein1950meaning
+category:
+related_publications:
 ---
 
-This was made as a part of my final year project, I used C# and the Unity game engine. The system uses Perlin noise to create the cave system.
+This was made as a part of my final year project, I used C# and the Unity game engine. The system uses Perlin noise to create the cave system. The idea behind it was designed
+to be used by people to make caves for there games  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1P2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1P2.JPG" title="A cave chunk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
