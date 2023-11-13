@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Procedural cave generation in Unity game engine
-description: A cave generation system using Perlin noise
+title: Wave based first person game using Unreal enigne
+description: A group project based on cod zombies
 img: assets/img/12.jpg
-importance: 1
+importance: 5
 category: #work
 related_publications: #einstein1956investigations, einstein1950meaning
 ---
 
-This was made as a part of my final year project
+This project was being worked on in the second year of Uni, it was compirsed of a team of seventeen people
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
