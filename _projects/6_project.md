@@ -23,4 +23,4 @@ three months before leaving and it taught me a lot about working in the industry
 I had a great time working in the company and learned a lot while being there. My main role was to make gameplay mechanics for two multiplayer games. most of my time
 was spent making gamplay features for a game that was being made that was similar to Dead by daylight, one mechanic that I made was to be able to hide lockers and while
 making this I had to keep in mind the fact that I would have to replicate the gamplay mechanic so it would look right to other players near by. Near the end of my time
-with the company I work on Ruff 'N' Tumble to make extra minigames with the other programmers. Here is a link to the steam page for the game <a href="https://store.steampowered.com/app/1190740/Ruff_N_Tumble_Mayhem/"></a>.
+with the company I work on Ruff 'N' Tumble to make extra minigames with the other programmers. Here is a link to the <a href="https://store.steampowered.com/app/1190740/Ruff_N_Tumble_Mayhem/">steam page</a> for the game.
