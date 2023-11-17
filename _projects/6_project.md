@@ -1,33 +1,26 @@
 ---
-layout: post
-title:  a post with videos
-date: 2023-04-24 21:01:00
-description: this is what included videos could look like
-tags: formatting videos
-categories: sample-posts
+layout: page
+title: Industry work
+description: Unreal engine games
+img: assets/img/6P1.JPG
 importance: 6
+category:
+related_publications:
 ---
-This is an example post with videos. It supports local video files.
 
-<div class="row mt-3">
+A couple of weeks after graduating from Uni I got to work at Psycho hound/Roughneck studios as a freelance junior game programmer, I worked with them for
+three months before leaving and it taught me a lot about working in the industry and a lot about networking with Unreal engine while making gamplay features.  
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include figure.html path="assets/img/6P2.JPG" title="Ruff 'N' Tumble: Mayhem" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+    This image showcases the logo of one of the two games I worked on.
 </div>
 
-It does also support embedding videos from different sources. Here are some examples:
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+I had a great time working in the company and learned a lot while being there. My main role was to make gameplay mechanics for two multiplayer games. most of my time
+was spent making gamplay features for a game that was being made that was similar to Dead by daylight, one mechanic that I made was to be able to hide lockers and while
+making this I had to keep in mind the fact that I would have to replicate the gamplay mechanic so it would look right to other players near by. Near the end of my time
+with the company I work on Ruff 'N' Tumble to make extra minigames with the other programmers. Here is a link to the steam page for the game <a href="https://store.steampowered.com/app/1190740/Ruff_N_Tumble_Mayhem/"></a>.
