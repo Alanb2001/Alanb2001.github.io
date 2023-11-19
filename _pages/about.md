@@ -16,7 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a programmer with an MComp in computer games programming from Teesside university
+I'm a programmer with an MComp in computer games programming from Teesside university. I enjoy creating games and programming, I made this website to showcase some of my work.
+There are more projects that can be found on my Github page.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
