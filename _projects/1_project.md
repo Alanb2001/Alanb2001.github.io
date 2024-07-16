@@ -8,8 +8,7 @@ category:
 related_publications:
 ---
 
-This was made as a part of my final year project, I used C# and the Unity game engine. The system uses Perlin noise to create the cave system. The idea behind it was designed
-to be used by people to make caves for there games or to just play around with.   
+This was made as a part of my final year project. I used C# and the Unity game engine. The system uses Perlin noise to create the cave system. The idea behind it was designed to be used by people to make caves for their games or to just play around with.   
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,10 +19,7 @@ to be used by people to make caves for there games or to just play around with.
     This image showcases a bit of the cave generated.
 </div>
 
-The way the system works is that it will generate chunks of the cave based on a seed given to the Perlin noise generator and this
-dictates how the cave will look like. It is infinitely generated but there is a fixed size of chunks that get loaded in at one time to
-avoid lag, once a chunk gets deloaded its coordinates get remembered by the system so if you return to the same spot it'll be the same
-chunk that was seen previously.   
+The way the system works is that it will generate chunks of the cave based on a seed given to the Perlin noise generator, and this dictates what the cave will look like. It is infinitely generated, but there is a fixed number of chunks that get loaded in at one time to avoid lag. Once a chunk gets deloaded, its coordinates get remembered by the system, so if you return to the same spot, it’ll be the same chunk that was seen previously. This was done by saving the coordinates using JSON.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

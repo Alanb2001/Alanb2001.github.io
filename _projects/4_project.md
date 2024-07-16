@@ -8,7 +8,7 @@ category:
 related_publications:
 ---
 
-This was made in the final year of uni, in this project the goal was to make post-processing effects work on our project.  
+This was made in the final year of university. In this project, the goal was to make post-processing effects work on our project.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,8 +19,7 @@ This was made in the final year of uni, in this project the goal was to make pos
     This image showcases the rendered scene.
 </div>
 
-This was the second time I used OpenGL and the goal this time around was to get more objects in the scene, muilptple lights working at the same time and
-add some post-processing effects. The post-processing effects I chose to implement where anti-aliasing and depth of field.
+This was the second time I used OpenGL, and the goal this time around was to get more objects in the scene, have multiple lights working at the same time, and add some post-processing effects. The post-processing effects I chose to implement were anti-aliasing and depth of field.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

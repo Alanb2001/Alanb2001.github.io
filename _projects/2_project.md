@@ -8,8 +8,7 @@ category:
 related_publications:
 ---
 
-This project was made during our second year of Uni, it was compirsed of a team of seventeen people, this was during COIVD so we used Discord to communicate.
-I was responsible for the AI found in the game.
+This project was made during our second year of university. It was composed of a team of seventeen people. This was during COIVD, so we used Discord to communicate. I was responsible for the AI found in the game.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,9 +19,7 @@ I was responsible for the AI found in the game.
     This image showcases all the enemies that are in the game.
 </div>
 
-This game was made using Unreal engine 4. There are three different type of enemies in this game, the first being a basic enemy that just walks towards the player and attacks.
-The second enemy is a slow moving, hard hitting enemy that when he gets close to the player charges in there direction. The final enemy is a floating, teleporting type of enemy
-that throws projectiles at the player.
+This game was made using Unreal Engine 4. There are three different types of enemies in this game, the first being a basic enemy that just walks towards the player and attacks. The second enemy is a slow-moving, hard-hitting enemy that, when it gets close to the player, charges in that direction. The final enemy is a floating, teleporting type of enemy that throws projectiles at the player.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
