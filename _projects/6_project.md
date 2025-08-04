@@ -25,7 +25,7 @@ The next role I got after that was with INFINITY 27. It started off as a one-mon
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="1903" height="786" src="https://www.youtube.com/embed/SgLzW7bOycQ" title="Enemy Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write;       encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="500" height="315" src="https://www.youtube.com/embed/SgLzW7bOycQ" title="Enemy Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write;       encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 
